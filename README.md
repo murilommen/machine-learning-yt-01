@@ -1,6 +1,6 @@
-# UFSCAR-SeCot: Data Science
+# Treinando um modelo de Machine Learning
 
-Esse repositório foi criado para ter um exemplo super simples, como um "hello world" para modelos de Machine Learning. O propósito inicial é que seja utilizado como uma pequena demonstração na Semana de Computação da UFSCar em 2021, mas pode também ser utilizado em outros contextos, caso seja conveniente.
+Esse repositório foi criado para ter um exemplo super simples, como um "hello world" para modelos de Machine Learning. 
 
 ## Preparação do ambiente (MacOS/Linux)
 Garanta que você tenha na sua máquina o `python>=3.7` e o gerenciador de pacotes `pip`, e então clone este repositório, mude para o diretório dele, e execute:
